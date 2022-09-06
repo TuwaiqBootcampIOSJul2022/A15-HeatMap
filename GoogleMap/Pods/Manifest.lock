@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.6.2)
+  - DTMHeatmap (1.0)
+  - GoogleMaps (7.1.0):
+    - GoogleMaps/Maps (= 7.1.0)
+  - GoogleMaps/Base (7.1.0)
+  - GoogleMaps/Maps (7.1.0):
+    - GoogleMaps/Base
+  - GooglePlaces (7.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - DTMHeatmap
+  - GoogleMaps
+  - GooglePlaces
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DTMHeatmap
+    - GoogleMaps
+    - GooglePlaces
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  DTMHeatmap: f5588af0730fbfe78c75d6d013f1932d7d327ab2
+  GoogleMaps: bc56ffb0324e345a2d91bac1a64a920f9c8f1b20
+  GooglePlaces: 187946335ec3dc624de71c0a9ddcc712f19b0ee1
+
+PODFILE CHECKSUM: eb522b657ac73bc1a727da132a237bd7cba2fb36
+
+COCOAPODS: 1.11.3
